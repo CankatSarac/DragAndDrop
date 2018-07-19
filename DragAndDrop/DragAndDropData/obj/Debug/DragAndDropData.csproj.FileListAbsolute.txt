@@ -1,0 +1,9 @@
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\bin\Debug\DragAndDropData.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\bin\Debug\DragAndDropData.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\bin\Debug\DragAndDropData.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\obj\Debug\DragAndDropData.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\obj\Debug\DragAndDropData.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\obj\Debug\DragAndDropData.csproj.GenerateResource.Cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\obj\Debug\DragAndDropData.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\obj\Debug\DragAndDropData.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DragAndDrop\DragAndDropData\obj\Debug\DragAndDropData.csprojResolveAssemblyReference.cache
